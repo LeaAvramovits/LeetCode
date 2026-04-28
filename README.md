@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/LeaAvramovits/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/LeaAvramovits/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/LeaAvramovits/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/LeaAvramovits/LeetCode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/LeaAvramovits/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/LeaAvramovits/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/LeaAvramovits/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/LeaAvramovits/LeetCode/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/LeaAvramovits/LeetCode/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/LeaAvramovits/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/LeaAvramovits/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
