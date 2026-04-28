@@ -34,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/LeaAvramovits/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0038-count-and-say](https://github.com/LeaAvramovits/LeetCode/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
