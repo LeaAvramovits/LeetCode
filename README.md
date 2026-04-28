@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/LeaAvramovits/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/LeaAvramovits/LeetCode/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/LeaAvramovits/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/LeaAvramovits/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/LeaAvramovits/LeetCode/tree/master/0055-jump-game) |
 ## Greedy
 |  |
@@ -35,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/LeaAvramovits/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/LeaAvramovits/LeetCode/tree/master/0038-count-and-say) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/LeaAvramovits/LeetCode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/LeaAvramovits/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/LeaAvramovits/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
