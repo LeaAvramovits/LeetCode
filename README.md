@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/LeaAvramovits/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/LeaAvramovits/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/LeaAvramovits/LeetCode/tree/master/0066-plus-one) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/LeaAvramovits/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/LeaAvramovits/LeetCode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/LeaAvramovits/LeetCode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
