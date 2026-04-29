@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LeaAvramovits/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/LeaAvramovits/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/LeaAvramovits/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/LeaAvramovits/LeetCode/tree/master/0066-plus-one) |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/LeaAvramovits/LeetCode/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LeaAvramovits/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LeaAvramovits/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
